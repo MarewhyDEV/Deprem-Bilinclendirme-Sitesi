@@ -4,11 +4,11 @@ Bu proje, Python Flask framework'ü kullanılarak geliştirilmiş bir deprem bil
 
 ## Başlangıç
 
-Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
+Projeyi kendi makinenizde çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
 ### Gereksinimler
 
-Projenin çalıştırılması için şu paketlere ihtiyaç vardır:
+Projenin çalıştırılması için şu paketleri indiriniz:
 - Python 3.x
 - Flask
 Gerekli paketleri yüklemek için terminal veya komut istemcisine şu komutu girin:
