@@ -75,6 +75,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [![Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org/)
+* [![HTML5 Logo]([path_to_your_html_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-computer-icons-html5-scalable-vector-graphics-port-7081597%2F&psig=AOvVaw3B_bZf_Nw5WtJWUy_ZVVd-&ust=1705861729996000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJj2k6fM7IMDFQAAAAAdAAAAABAD))]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![HTML][html.com]][JQuery-url]
 
