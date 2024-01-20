@@ -37,16 +37,10 @@
 <h3 align="center">Deprem Bilinçlendirme Sitesi.</h3>
 
   <p align="center">
-    project_description
+    Python Flask ile yapılan deprem bilinçlendirme sitesi.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MarewhyDEV/Deprem-Bilinclendirme-Sitesi"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
