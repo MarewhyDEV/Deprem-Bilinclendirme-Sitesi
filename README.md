@@ -1,9 +1,5 @@
 # Deprem Bilinçlendirme Sitesi
 
-Bu proje, Python Flask framework'ü kullanılarak geliştirilmiş bir deprem bilinçlendirme sitesidir.
-
-# Deprem Bilinçlendirme Sitesi
-
 Bu proje, Python Flask kullanılarak geliştirilmiş bir deprem bilinçlendirme sitesidir. Sitede anlık deprem bilgileri, depremlerle ilgili makaleler ve bir forum bulunmaktadır.
 
 ## Özellikler
